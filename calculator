@@ -1,4 +1,9 @@
 def subtract(x,y):
 
     # function prints the result of subtracting second number from first
-    print (x-y)
+    # funtion takes int and float 
+    
+    print (f"the result of subtracting {x-y} is " + x-y)
+
+subtract(23,15)
+
