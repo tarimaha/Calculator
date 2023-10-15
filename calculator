@@ -1,2 +1,4 @@
 def subtract(x,y):
-    return x-y
+
+    # function prints the result of subtracting second number from first
+    print (x-y)
