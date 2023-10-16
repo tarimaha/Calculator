@@ -36,5 +36,3 @@ def divide(dividend, divisor):
 divide (10, 6)
 
 
-
-    
