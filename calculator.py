@@ -21,6 +21,22 @@ def divide(dividend, divisor):
 
 divide (10, 6)
 
+import math 
 
+def calc_log(number):
+    """
+    Calculates the natural logarithm of a given number and displays the result.
+
+    Args:
+        number (float or int): The number for which to calculate the logarithm.
+
+    Returns:
+        None
+
+    """
+    log = math.log(number)
+    print(f"The logarithm of {number} is: {log}")
+
+calc_log(10)  
 
     
